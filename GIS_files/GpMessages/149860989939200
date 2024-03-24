@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, February 12, 2024 5:38:32 PM</msg><msg code="0" type="0">Calculating kernel density</msg><msg code="0" type="0">Start Time: Monday, February 12, 2024 5:38:34 PM
+Succeeded at Monday, February 12, 2024 5:38:39 PM (Elapsed Time: 5.03 seconds)</msg><msg code="0" type="0">Start Time: Monday, February 12, 2024 5:38:40 PM
+WARNING 001086: Skipping feature(s) because of NULL values in pop_density field.
+Succeeded at Monday, February 12, 2024 5:38:47 PM (Elapsed Time: 7.17 seconds)</msg><msg code="0" type="0">Calculating the ratio</msg><msg code="0" type="3">Succeeded at Monday, February 12, 2024 5:39:01 PM (Elapsed Time: 28.10 seconds)</msg></messages>

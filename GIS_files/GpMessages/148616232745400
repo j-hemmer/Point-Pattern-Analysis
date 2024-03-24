@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, February 12, 2024 5:17:48 PM</msg><msg code="0" type="0">Calculating kernel density</msg><msg code="0" type="0">Start Time: Monday, February 12, 2024 5:17:49 PM
+The default search radius computed was: 10564.272096093393 Foot_US.
+Succeeded at Monday, February 12, 2024 5:17:54 PM (Elapsed Time: 4.79 seconds)</msg><msg code="0" type="0">Start Time: Monday, February 12, 2024 5:17:54 PM
+The default search radius computed was: 2408.1992562745027 Foot_US.
+WARNING 001086: Skipping feature(s) because of NULL values in pop_density field.
+Succeeded at Monday, February 12, 2024 5:18:00 PM (Elapsed Time: 5.40 seconds)</msg><msg code="0" type="0">Calculating the ratio</msg><msg code="0" type="3">Succeeded at Monday, February 12, 2024 5:18:14 PM (Elapsed Time: 26.23 seconds)</msg></messages>
