@@ -1,2 +1,2 @@
 # Point-Pattern-Analysis
-Point Pattern Analysis of Fatal Encounters in New York City
+Point Pattern Analysis of Fatal Encounters in New York City. This project is a collaborative effort to carry out point pattern analysis of fatal encounters in New York City. This involved an Average Nearest Neighbor, Kernel Density, Ripley's K and a Kernel Density Estimation Ratio with population normalization to combat inhomogeneity in the population. Local and global analyses were run to see if there was any variation. Parameters for the tools were based on literature as well as the results of the Average Nearest Neighbor. The Project report pdf file is present here, and all the GIS files are in the GIS files folder. These include a geodatabase as well as an .aprx file for ArcGIS Pro.
